@@ -1,4 +1,4 @@
-## Isi Tabel
+# Summary
 
-1. [Bagian Pertama](chapter1.md)
-2. [Bagian Kedua](chapter2.md)
+1. [Overview](chapter1.md)
+2. [Alur Kerja](chapter2.md)
